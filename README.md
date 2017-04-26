@@ -5,7 +5,7 @@ Moteur de raycasting comme Wolfenstein3D en C
 ## Installation
 
 ```
-git clone
+git clone https://github.com/Aornn/WOLF3D.git WOLF3D
 ```
 
 ```
