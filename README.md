@@ -2,7 +2,7 @@
 
 Moteur de raycasting comme Wolfenstein3D en C
 
-## Installation
+## Installation :
 
 ```
 git clone https://github.com/Aornn/WOLF3D.git WOLF3D
@@ -20,7 +20,7 @@ make
 ./WOLF3D
 ```
 
-## Controle
+## Controle :
 
 Fleches : mouvements + rotations
 
@@ -30,7 +30,7 @@ A et D : mouvements lateraux
 
 "<" et ">" : augmenter et diminuer la vitesse de rotation
 
-## Screenshots
+## Screenshots :
 
 ![alt text](https://github.com/Aornn/WOLF3D/blob/master/Screen%20Shot%202017-04-26%20at%201.43.46%20PM.png)
 ![alt text](https://github.com/Aornn/WOLF3D/blob/master/Screen%20Shot%202017-04-26%20at%201.44.07%20PM.png)
