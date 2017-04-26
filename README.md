@@ -32,4 +32,6 @@ A et D : mouvements lateraux
 
 ## Screenshots
 
-![alt text](https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s900-c-k-no-mo-rj-c0xffffff/photo.jpg)
+![alt text](https://github.com/Aornn/WOLF3D/blob/master/Screen%20Shot%202017-04-26%20at%201.43.46%20PM.png)
+![alt text](https://github.com/Aornn/WOLF3D/blob/master/Screen%20Shot%202017-04-26%20at%201.44.07%20PM.png)
+
