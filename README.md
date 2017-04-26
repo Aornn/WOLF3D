@@ -23,6 +23,9 @@ make
 ## Controle
 
 Fleches : mouvements + rotations
+
 A et D : mouvements lateraux
+
 + et - : augmenter et diminuer la vitesse de déplacememt
+
 < et > : augmenter et diminuer la vitesse de rotation
